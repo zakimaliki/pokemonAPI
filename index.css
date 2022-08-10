@@ -1,0 +1,48 @@
+html,body{
+    height: 100%;
+    width: 100%;
+}
+
+#container {
+    margin: auto;
+}
+
+#poke-container {
+    margin: auto;
+    width: 97%;
+    padding: 10px;
+}
+
+#header-container {
+    border-radius: 0px !important;
+}
+
+#header-text{
+    margin: 0 auto;
+}
+
+#generate-pokemon {
+    margin: 0 auto;
+}
+
+p {
+    padding-bottom: 10px;
+}
+
+.ui.card>.image, .ui.cards>.card>.image {
+    background: #ffffff;
+}
+
+.ui.card, .ui.cards>.card {
+    width: 260px;
+}
+
+p:last-child {
+    margin-bottom: 0;
+    padding: 10px;
+}
+
+h4,h5 {
+    margin: -15px 0px 0px 0px;
+    padding: 10px;
+}
